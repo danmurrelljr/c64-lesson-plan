@@ -23,7 +23,8 @@ This repository contains a series of progressive lessons and challenges designed
 | [Lesson 3](./lessons/03_input_interaction/README.md) | **Input & Interaction** <br> *INPUT vs GET, Real-time control* | ✅ Complete |
 | [Lesson 4](./lessons/04_data_structures/README.md) | **Data Structures** <br> *Arrays, READ/DATA* | ✅ Complete |
 | [Lesson 5](./lessons/05_screen_manipulation/README.md) | **Screen Manipulation** <br> *PEEK, POKE, Screen & Color RAM* | ✅ Complete |
-| [Lesson 6](./lessons/06_sprites_sound/README.md) | **Sprites & Sound** <br> *VIC-II Sprites, SID Sound Chip* | 🚧 In Progress |
+| [Lesson 6](./lessons/06_sprites_sound/README.md) | **Sprites & Sound** <br> *VIC-II Sprites, SID Sound Chip* | ✅ Complete |
+| [Lesson 7](./lessons/07_game_loop/README.md) | **Game Loops & Timing** <br> *TI Timer, Game Architecture* | ✅ Complete |
 
 ## 💻 How to Run
 
